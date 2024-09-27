@@ -1,5 +1,5 @@
 ---
-title: "Hymenoptera Classifier"
+title: "Exoplanet Classifier"
 categories:
   - Projects
 tags:
