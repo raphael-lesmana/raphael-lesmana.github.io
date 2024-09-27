@@ -66,12 +66,25 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raphael-lesmana"
+    - label: "Kattis"
+      icon: "fas fa-fw fa-laptop-code"
+      url: "https://open.kattis.com/users/dependencypurgatory"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/raphael-alexander-lesmana-71984723a"
+
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raphael-lesmana"
+    - label: "Kattis"
+      icon: "fas fa-fw fa-laptop-code"
+      url: "https://open.kattis.com/users/dependencypurgatory"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/raphael-alexander-lesmana-71984723a"
 
 
 defaults:
